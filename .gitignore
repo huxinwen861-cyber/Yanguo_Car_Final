@@ -1,0 +1,36 @@
+# Keil build output
+Objects/
+Listings/
+
+# Keil temporary files
+*.bak
+*.tmp
+*.dep
+*.crf
+*.d
+*.o
+*.obj
+*.lst
+*.map
+*.lnp
+*.htm
+*.html
+*.build_log.htm
+
+# Keil user-specific settings
+*.uvguix.*
+*.uvgui.*
+*.uvoptx
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VSCode local settings
+.vscode/
+
+# Logs
+*.log
+libraries.zip
+project/mdk/out_file/
+project/user/main_backup_before_*.c

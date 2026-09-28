@@ -869,6 +869,16 @@
               <FileType>1</FileType>
               <FilePath>..\user\main.c</FilePath>
             </File>
+            <File>
+              <FileName>camera_lane.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\user\camera_lane.c</FilePath>
+            </File>
+            <File>
+              <FileName>camera_lane.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\user\camera_lane.h</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>
